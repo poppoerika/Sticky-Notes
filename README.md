@@ -7,3 +7,5 @@ React is used in this app to create dynamic experience.
 * HTML
 * CSS
 * JavaScript / React (JSX)
+
+![Screenshot](stickyenote.png)
