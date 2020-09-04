@@ -8,4 +8,4 @@ React is used in this app to create dynamic experience.
 * CSS
 * JavaScript / React (JSX)
 
-![Screenshot](stickyenote.png)
+![Screenshot](stickynote.png)
